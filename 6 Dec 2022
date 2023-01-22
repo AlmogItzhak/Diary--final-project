@@ -1,0 +1,19 @@
+6 Dec 2022
+Tasks for next week:
+Understand the code from the place we stopped.
+Reproduce this code on a data frame of 1000 rows by 5 columns.
+The columns are chosen randomly- First to third column will be groups of different numbers (fractions, large numbers, etc.)
+Fourth column we will perform with Poisson distribution distribution, fifth + sixth column we will generateperform with Gaussian distribution (np.random.normal) with: (a) mu = 0, sigma=1 (this is called “normal standard distribution), (b) .mu = 5, sigma= 3
+
+In addition:
+I) Create a numpy array of 10000 integer numbers in the range [0 to 1M] (check out: https://numpy.org/doc/stable/reference/random/generated/numpy.random.rand.html)
+II) Count how many unique values it contains (there is a function that does that)
+III) Repeat stages I & II and keep all the values from II in a list\np.array
+IV) Plot the distribution of the data generated in stage III
+ 
+Then, extract the amount of unique values and build 10,000 data frames in a loop (each time extract 10,000 uniques).
+
+
+
+
+Understand concepts in statistics: probability density function, distribution function, law of large numbers, central limit theorem, the connection between the expectation and the mean, pvalue
