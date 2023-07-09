@@ -1,0 +1,3 @@
+Tasks for next week:
+Try to fix the evaluation metrics that aren’t working (sensitivity, specificity, false positive rate, roc curve.)
+Implement more methods from the chosen paper (that implement smote).
