@@ -1,0 +1,3 @@
+Tasks for next week:
+Continue the code: 
+if the dataset has n columns the pipeline will get k columns. (k<=n). the columns that we drop can be random. (look at the documentation of scikit - feature selection).
