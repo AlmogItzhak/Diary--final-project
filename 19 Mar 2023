@@ -1,0 +1,8 @@
+Tasks for next week:
+Split our code to blocks :
+1. Imports 
+2.cleaning the data .
+3.Statistical and probabilistic analysis of the data.
+4.add the evaluation metrics from Noa’s presentation.
+5.Implement the algorithms: SVM, logistic regression, random forest.
+6.print the results.
